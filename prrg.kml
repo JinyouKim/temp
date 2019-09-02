@@ -1,0 +1,1249 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="prrg" id="prrg">
+	<SimpleField name="OBJECTID" type="float"></SimpleField>
+	<SimpleField name="SEQ" type="float"></SimpleField>
+	<SimpleField name="ID" type="string"></SimpleField>
+	<SimpleField name="PBCO_NO_OL" type="string"></SimpleField>
+	<SimpleField name="ENABLED" type="int"></SimpleField>
+	<SimpleField name="PBCO_NO" type="string"></SimpleField>
+	<SimpleField name="PRRG_NM" type="string"></SimpleField>
+	<SimpleField name="PRRG_TYPE" type="string"></SimpleField>
+	<SimpleField name="CTRLNODE" type="string"></SimpleField>
+	<SimpleField name="CMAX" type="float"></SimpleField>
+	<SimpleField name="CVALUE" type="float"></SimpleField>
+	<SimpleField name="MEAS_PRS2" type="float"></SimpleField>
+</Schema>
+<Folder><name>prrg</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#prrg">
+		<SimpleData name="OBJECTID">627</SimpleData>
+		<SimpleData name="SEQ">33.00000000000</SimpleData>
+		<SimpleData name="ID">RG-2013-0004</SimpleData>
+		<SimpleData name="PBCO_NO_OL">2013B0006</SimpleData>
+		<SimpleData name="ENABLED">1</SimpleData>
+		<SimpleData name="PBCO_NO">2013B0006</SimpleData>
+		<SimpleData name="PRRG_NM">흥해지구</SimpleData>
+		<SimpleData name="PRRG_TYPE">FISHER 1098 EGR 8&quot;</SimpleData>
+		<SimpleData name="CTRLNODE">CTRLN44303_2</SimpleData>
+		<SimpleData name="CMAX">165000.00000000000</SimpleData>
+		<SimpleData name="CVALUE">115500.00000000000</SimpleData>
+		<SimpleData name="MEAS_PRS2">564.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>129.343193709065,36.1003126377204</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#prrg">
+		<SimpleData name="OBJECTID">566</SimpleData>
+		<SimpleData name="SEQ">709.00000000000</SimpleData>
+		<SimpleData name="ID">RG-1999-0003</SimpleData>
+		<SimpleData name="PBCO_NO_OL">1999B0004</SimpleData>
+		<SimpleData name="ENABLED">1</SimpleData>
+		<SimpleData name="PBCO_NO">1999B0004</SimpleData>
+		<SimpleData name="PRRG_NM">포항지구</SimpleData>
+		<SimpleData name="PRRG_TYPE">FISHER-8&quot;</SimpleData>
+		<SimpleData name="CTRLNODE">CTRLN14229_2</SimpleData>
+		<SimpleData name="CMAX">165000.00000000000</SimpleData>
+		<SimpleData name="CVALUE">115500.00000000000</SimpleData>
+		<SimpleData name="MEAS_PRS2">518.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>129.312134842549,36.0413317640288</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#prrg">
+		<SimpleData name="OBJECTID">2881</SimpleData>
+		<SimpleData name="SEQ">753.00000000000</SimpleData>
+		<SimpleData name="ID">RG-2000-0001</SimpleData>
+		<SimpleData name="PBCO_NO_OL">2000B0003</SimpleData>
+		<SimpleData name="ENABLED">1</SimpleData>
+		<SimpleData name="PBCO_NO">2000B0003</SimpleData>
+		<SimpleData name="PRRG_NM">한미</SimpleData>
+		<SimpleData name="PRRG_TYPE">AFV-2HL</SimpleData>
+		<SimpleData name="CTRLNODE">CTRLN838_1</SimpleData>
+		<SimpleData name="CMAX">4583.00000000000</SimpleData>
+		<SimpleData name="CVALUE">3208.10000000000</SimpleData>
+		<SimpleData name="MEAS_PRS2">2.06000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>129.342875318499,36.1112680575014</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#prrg">
+		<SimpleData name="OBJECTID">28481</SimpleData>
+		<SimpleData name="SEQ">858.00000000000</SimpleData>
+		<SimpleData name="ID">RG-2018-0002</SimpleData>
+		<SimpleData name="ENABLED">1</SimpleData>
+		<SimpleData name="PBCO_NO">2018G0001</SimpleData>
+		<SimpleData name="PRRG_NM">신문덕</SimpleData>
+		<SimpleData name="CTRLNODE">CTRLN62354_2</SimpleData>
+		<SimpleData name="CMAX">8594.00000000000</SimpleData>
+		<SimpleData name="CVALUE">6015.80000000000</SimpleData>
+		<SimpleData name="MEAS_PRS2">0.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>129.408148881889,35.9527683054963</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#prrg">
+		<SimpleData name="OBJECTID">29763</SimpleData>
+		<SimpleData name="SEQ">860.00000000000</SimpleData>
+		<SimpleData name="ID">RG-2018-0004</SimpleData>
+		<SimpleData name="ENABLED">1</SimpleData>
+		<SimpleData name="PBCO_NO">2018G0004</SimpleData>
+		<SimpleData name="PRRG_NM">조양</SimpleData>
+		<SimpleData name="CTRLNODE">CTRLN62731_2</SimpleData>
+		<SimpleData name="CMAX">4583.00000000000</SimpleData>
+		<SimpleData name="CVALUE">3208.10000000000</SimpleData>
+		<SimpleData name="MEAS_PRS2">0.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>129.355918706018,36.0512142070005</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#prrg">
+		<SimpleData name="OBJECTID">304</SimpleData>
+		<SimpleData name="SEQ">447.00000000000</SimpleData>
+		<SimpleData name="ID">RG-2010-0004</SimpleData>
+		<SimpleData name="PBCO_NO_OL">2010G0008</SimpleData>
+		<SimpleData name="ENABLED">1</SimpleData>
+		<SimpleData name="PBCO_NO">2010G0008</SimpleData>
+		<SimpleData name="PRRG_NM">두산</SimpleData>
+		<SimpleData name="PRRG_TYPE">K-19</SimpleData>
+		<SimpleData name="CTRLNODE">CTRLN32268_2</SimpleData>
+		<SimpleData name="CMAX">11005.00000000000</SimpleData>
+		<SimpleData name="CVALUE">7703.50000000000</SimpleData>
+		<SimpleData name="MEAS_PRS2">1.95000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>129.380094679868,36.0729133747384</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#prrg">
+		<SimpleData name="OBJECTID">350</SimpleData>
+		<SimpleData name="SEQ">493.00000000000</SimpleData>
+		<SimpleData name="ID">RG-1998-0006</SimpleData>
+		<SimpleData name="PBCO_NO_OL">1998B0006</SimpleData>
+		<SimpleData name="ENABLED">1</SimpleData>
+		<SimpleData name="PBCO_NO">1998B0006</SimpleData>
+		<SimpleData name="PRRG_NM">대림</SimpleData>
+		<SimpleData name="PRRG_TYPE">FISHER-2&quot;</SimpleData>
+		<SimpleData name="CTRLNODE">CTRLN5771_2</SimpleData>
+		<SimpleData name="CMAX">4821.00000000000</SimpleData>
+		<SimpleData name="CVALUE">3374.70000000000</SimpleData>
+		<SimpleData name="MEAS_PRS2">2.03000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>129.378610291255,36.0830386513079</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#prrg">
+		<SimpleData name="OBJECTID">597</SimpleData>
+		<SimpleData name="SEQ">3.00000000000</SimpleData>
+		<SimpleData name="ID">RG-2008-0001</SimpleData>
+		<SimpleData name="PBCO_NO_OL">2008G0001</SimpleData>
+		<SimpleData name="ENABLED">1</SimpleData>
+		<SimpleData name="PBCO_NO">2008G0001</SimpleData>
+		<SimpleData name="PRRG_NM">양덕</SimpleData>
+		<SimpleData name="PRRG_TYPE">K-19</SimpleData>
+		<SimpleData name="CTRLNODE">CTRLN35862_1</SimpleData>
+		<SimpleData name="CMAX">11005.00000000000</SimpleData>
+		<SimpleData name="CVALUE">7703.50000000000</SimpleData>
+		<SimpleData name="MEAS_PRS2">1.92000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>129.402168007552,36.0832137449995</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#prrg">
+		<SimpleData name="OBJECTID">4161</SimpleData>
+		<SimpleData name="SEQ">762.00000000000</SimpleData>
+		<SimpleData name="ID">RG-2015-0002</SimpleData>
+		<SimpleData name="ENABLED">1</SimpleData>
+		<SimpleData name="PBCO_NO">2015G0002</SimpleData>
+		<SimpleData name="PRRG_NM">양서</SimpleData>
+		<SimpleData name="CTRLNODE">CTRLN49384_2</SimpleData>
+		<SimpleData name="CMAX">11005.00000000000</SimpleData>
+		<SimpleData name="CVALUE">7703.50000000000</SimpleData>
+		<SimpleData name="MEAS_PRS2">0.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>129.392285150383,36.0869277695765</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#prrg">
+		<SimpleData name="OBJECTID">14081</SimpleData>
+		<SimpleData name="SEQ">807.00000000000</SimpleData>
+		<SimpleData name="ID">RG-2016-0002</SimpleData>
+		<SimpleData name="ENABLED">1</SimpleData>
+		<SimpleData name="PBCO_NO">2016G0002</SimpleData>
+		<SimpleData name="PRRG_NM">양동</SimpleData>
+		<SimpleData name="CTRLNODE">CTRLN53883_2</SimpleData>
+		<SimpleData name="CMAX">11459.00000000000</SimpleData>
+		<SimpleData name="CVALUE">8021.30000000000</SimpleData>
+		<SimpleData name="MEAS_PRS2">0.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>129.411286981262,36.0799131072134</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#prrg">
+		<SimpleData name="OBJECTID">295</SimpleData>
+		<SimpleData name="SEQ">438.00000000000</SimpleData>
+		<SimpleData name="ID">RG-2010-0002</SimpleData>
+		<SimpleData name="PBCO_NO_OL">2010G0006</SimpleData>
+		<SimpleData name="ENABLED">1</SimpleData>
+		<SimpleData name="PBCO_NO">2010G0006</SimpleData>
+		<SimpleData name="PRRG_NM">장량</SimpleData>
+		<SimpleData name="PRRG_TYPE">PALACE-80L</SimpleData>
+		<SimpleData name="CTRLNODE">CTRLN30679_1</SimpleData>
+		<SimpleData name="CMAX">8594.00000000000</SimpleData>
+		<SimpleData name="CVALUE">6015.80000000000</SimpleData>
+		<SimpleData name="MEAS_PRS2">1.92000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>129.386714671888,36.0904952690632</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#prrg">
+		<SimpleData name="OBJECTID">445</SimpleData>
+		<SimpleData name="SEQ">588.00000000000</SimpleData>
+		<SimpleData name="ID">RG-1998-0003</SimpleData>
+		<SimpleData name="PBCO_NO_OL">1998B0003</SimpleData>
+		<SimpleData name="ENABLED">1</SimpleData>
+		<SimpleData name="PBCO_NO">1998B0003</SimpleData>
+		<SimpleData name="PRRG_NM">현대</SimpleData>
+		<SimpleData name="PRRG_TYPE">AFV-2HL</SimpleData>
+		<SimpleData name="CTRLNODE">CTRLN5092_2</SimpleData>
+		<SimpleData name="CMAX">4583.00000000000</SimpleData>
+		<SimpleData name="CVALUE">3208.10000000000</SimpleData>
+		<SimpleData name="MEAS_PRS2">1.97000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>129.392810960025,36.0856721869799</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#prrg">
+		<SimpleData name="OBJECTID">463</SimpleData>
+		<SimpleData name="SEQ">606.00000000000</SimpleData>
+		<SimpleData name="ID">RG-1992-0003</SimpleData>
+		<SimpleData name="PBCO_NO_OL">1992B0013</SimpleData>
+		<SimpleData name="ENABLED">1</SimpleData>
+		<SimpleData name="PBCO_NO">1992B0013</SimpleData>
+		<SimpleData name="PRRG_NM">환호</SimpleData>
+		<SimpleData name="PRRG_TYPE">AFV-2HL</SimpleData>
+		<SimpleData name="CTRLNODE">CTRLN15638_2</SimpleData>
+		<SimpleData name="CMAX">4583.00000000000</SimpleData>
+		<SimpleData name="CVALUE">3208.10000000000</SimpleData>
+		<SimpleData name="MEAS_PRS2">2.02000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>129.395805656447,36.0687246507909</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#prrg">
+		<SimpleData name="OBJECTID">232</SimpleData>
+		<SimpleData name="SEQ">375.00000000000</SimpleData>
+		<SimpleData name="ID">RG-2005-0002</SimpleData>
+		<SimpleData name="PBCO_NO_OL">2005B0383</SimpleData>
+		<SimpleData name="ENABLED">1</SimpleData>
+		<SimpleData name="PBCO_NO">2005B0383</SimpleData>
+		<SimpleData name="PRRG_NM">해맞이</SimpleData>
+		<SimpleData name="PRRG_TYPE">AFV-3HL</SimpleData>
+		<SimpleData name="CTRLNODE">CTRLN56043_1</SimpleData>
+		<SimpleData name="CMAX">8594.00000000000</SimpleData>
+		<SimpleData name="CVALUE">6015.80000000000</SimpleData>
+		<SimpleData name="MEAS_PRS2">2.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>129.389451478211,36.0679346484279</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#prrg">
+		<SimpleData name="OBJECTID">344</SimpleData>
+		<SimpleData name="SEQ">487.00000000000</SimpleData>
+		<SimpleData name="ID">RG-1991-0001</SimpleData>
+		<SimpleData name="PBCO_NO_OL">1991B0003</SimpleData>
+		<SimpleData name="ENABLED">1</SimpleData>
+		<SimpleData name="PBCO_NO">1991B0003</SimpleData>
+		<SimpleData name="PRRG_NM">럭키</SimpleData>
+		<SimpleData name="PRRG_TYPE">AFV-3HL</SimpleData>
+		<SimpleData name="CTRLNODE">CTRLN15525_2</SimpleData>
+		<SimpleData name="CMAX">8594.00000000000</SimpleData>
+		<SimpleData name="CVALUE">6015.80000000000</SimpleData>
+		<SimpleData name="MEAS_PRS2">2.03000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>129.380457142027,36.0666158623133</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#prrg">
+		<SimpleData name="OBJECTID">351</SimpleData>
+		<SimpleData name="SEQ">494.00000000000</SimpleData>
+		<SimpleData name="ID">RG-2004-0001</SimpleData>
+		<SimpleData name="PBCO_NO_OL">2004B0420</SimpleData>
+		<SimpleData name="ENABLED">1</SimpleData>
+		<SimpleData name="PBCO_NO">2004B0420</SimpleData>
+		<SimpleData name="PRRG_NM">두호</SimpleData>
+		<SimpleData name="PRRG_TYPE">AFV-3HL</SimpleData>
+		<SimpleData name="CTRLNODE">CTRLN39186_2</SimpleData>
+		<SimpleData name="CMAX">8594.00000000000</SimpleData>
+		<SimpleData name="CVALUE">6015.80000000000</SimpleData>
+		<SimpleData name="MEAS_PRS2">2.05000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>129.373608914337,36.0642633403307</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#prrg">
+		<SimpleData name="OBJECTID">20801</SimpleData>
+		<SimpleData name="SEQ">831.00000000000</SimpleData>
+		<SimpleData name="ID">RG-2017-0002</SimpleData>
+		<SimpleData name="ENABLED">1</SimpleData>
+		<SimpleData name="PBCO_NO">2017A0297</SimpleData>
+		<SimpleData name="PRRG_NM">메트로</SimpleData>
+		<SimpleData name="CTRLNODE">CTRLN56585_1</SimpleData>
+		<SimpleData name="CMAX">9300.00000000000</SimpleData>
+		<SimpleData name="CVALUE">6510.00000000000</SimpleData>
+		<SimpleData name="MEAS_PRS2">0.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>129.367911900361,36.0660176013657</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#prrg">
+		<SimpleData name="OBJECTID">16982</SimpleData>
+		<SimpleData name="SEQ">402.00000000000</SimpleData>
+		<SimpleData name="ID">RG-2008-0002</SimpleData>
+		<SimpleData name="PBCO_NO_OL">2008G0002</SimpleData>
+		<SimpleData name="ENABLED">1</SimpleData>
+		<SimpleData name="PBCO_NO">2008G0002</SimpleData>
+		<SimpleData name="PRRG_NM">장성</SimpleData>
+		<SimpleData name="PRRG_TYPE">AFV-3HL</SimpleData>
+		<SimpleData name="CTRLNODE">CTRLN26668_2</SimpleData>
+		<SimpleData name="CMAX">8594.00000000000</SimpleData>
+		<SimpleData name="CVALUE">6015.80000000000</SimpleData>
+		<SimpleData name="MEAS_PRS2">2.04000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>129.374928339427,36.0696521544821</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#prrg">
+		<SimpleData name="OBJECTID">313</SimpleData>
+		<SimpleData name="SEQ">456.00000000000</SimpleData>
+		<SimpleData name="ID">RG-2010-0005</SimpleData>
+		<SimpleData name="PBCO_NO_OL">2010D0002</SimpleData>
+		<SimpleData name="ENABLED">1</SimpleData>
+		<SimpleData name="PBCO_NO">2010D0002</SimpleData>
+		<SimpleData name="PRRG_NM">학천</SimpleData>
+		<SimpleData name="PRRG_TYPE">K-19</SimpleData>
+		<SimpleData name="CTRLNODE">CTRLN32183_2</SimpleData>
+		<SimpleData name="CMAX">11005.00000000000</SimpleData>
+		<SimpleData name="CVALUE">7703.50000000000</SimpleData>
+		<SimpleData name="MEAS_PRS2">1.88000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>129.33450465609,36.077986873124</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#prrg">
+		<SimpleData name="OBJECTID">568</SimpleData>
+		<SimpleData name="SEQ">711.00000000000</SimpleData>
+		<SimpleData name="ID">RG-2003-0001</SimpleData>
+		<SimpleData name="PBCO_NO_OL">2003A0513</SimpleData>
+		<SimpleData name="ENABLED">1</SimpleData>
+		<SimpleData name="PBCO_NO">2003A0513</SimpleData>
+		<SimpleData name="PRRG_NM">성곡</SimpleData>
+		<SimpleData name="PRRG_TYPE">AFV-2HL</SimpleData>
+		<SimpleData name="CTRLNODE">CTRLN13561_2</SimpleData>
+		<SimpleData name="CMAX">4583.00000000000</SimpleData>
+		<SimpleData name="CVALUE">3208.10000000000</SimpleData>
+		<SimpleData name="MEAS_PRS2">1.90000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>129.339582349822,36.07690562041</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#prrg">
+		<SimpleData name="OBJECTID">569</SimpleData>
+		<SimpleData name="SEQ">712.00000000000</SimpleData>
+		<SimpleData name="ID">RG-2001-0002</SimpleData>
+		<SimpleData name="PBCO_NO_OL">2001B0003</SimpleData>
+		<SimpleData name="ENABLED">1</SimpleData>
+		<SimpleData name="PBCO_NO">2001B0003</SimpleData>
+		<SimpleData name="PRRG_NM">대유</SimpleData>
+		<SimpleData name="PRRG_TYPE">FISHER-2&quot;</SimpleData>
+		<SimpleData name="CTRLNODE">CTRLN13839_2</SimpleData>
+		<SimpleData name="CMAX">4583.00000000000</SimpleData>
+		<SimpleData name="CVALUE">3208.10000000000</SimpleData>
+		<SimpleData name="MEAS_PRS2">1.95000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>129.335242118839,36.0699841473946</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#prrg">
+		<SimpleData name="OBJECTID">3205</SimpleData>
+		<SimpleData name="SEQ">755.00000000000</SimpleData>
+		<SimpleData name="ID">RG-2015-0001</SimpleData>
+		<SimpleData name="ENABLED">1</SimpleData>
+		<SimpleData name="PBCO_NO">2015A0081</SimpleData>
+		<SimpleData name="PRRG_NM">상도</SimpleData>
+		<SimpleData name="CTRLNODE">CTRLN49006_2</SimpleData>
+		<SimpleData name="CMAX">8594.00000000000</SimpleData>
+		<SimpleData name="CVALUE">6015.80000000000</SimpleData>
+		<SimpleData name="MEAS_PRS2">0.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>129.345554563511,36.0083189094597</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#prrg">
+		<SimpleData name="OBJECTID">529</SimpleData>
+		<SimpleData name="SEQ">672.00000000000</SimpleData>
+		<SimpleData name="ID">RG-2000-0002</SimpleData>
+		<SimpleData name="PBCO_NO_OL">2000B0004</SimpleData>
+		<SimpleData name="ENABLED">1</SimpleData>
+		<SimpleData name="PBCO_NO">2000B0004</SimpleData>
+		<SimpleData name="PRRG_NM">금성</SimpleData>
+		<SimpleData name="PRRG_TYPE">AFV-2HL</SimpleData>
+		<SimpleData name="CTRLNODE">CTRLN59779_1</SimpleData>
+		<SimpleData name="CMAX">4583.00000000000</SimpleData>
+		<SimpleData name="CVALUE">3208.10000000000</SimpleData>
+		<SimpleData name="MEAS_PRS2">2.01000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>129.346219348668,36.1060437918182</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#prrg">
+		<SimpleData name="OBJECTID">481</SimpleData>
+		<SimpleData name="SEQ">624.00000000000</SimpleData>
+		<SimpleData name="ID">RG-1992-0002</SimpleData>
+		<SimpleData name="PBCO_NO_OL">1992B0018</SimpleData>
+		<SimpleData name="ENABLED">1</SimpleData>
+		<SimpleData name="PBCO_NO">1992B0018</SimpleData>
+		<SimpleData name="PRRG_NM">송정</SimpleData>
+		<SimpleData name="PRRG_TYPE">AFV-2HL</SimpleData>
+		<SimpleData name="CTRLNODE">CTRLN15753_2</SimpleData>
+		<SimpleData name="CMAX">4583.00000000000</SimpleData>
+		<SimpleData name="CVALUE">3208.10000000000</SimpleData>
+		<SimpleData name="MEAS_PRS2">2.02000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>129.369523999826,36.0319024343793</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#prrg">
+		<SimpleData name="OBJECTID">459</SimpleData>
+		<SimpleData name="SEQ">602.00000000000</SimpleData>
+		<SimpleData name="ID">RG-2006-0001</SimpleData>
+		<SimpleData name="PBCO_NO_OL">2006B0256</SimpleData>
+		<SimpleData name="ENABLED">1</SimpleData>
+		<SimpleData name="PBCO_NO">2006B0256</SimpleData>
+		<SimpleData name="PRRG_NM">해도</SimpleData>
+		<SimpleData name="PRRG_TYPE">AFV-3HL</SimpleData>
+		<SimpleData name="CTRLNODE">CTRLN17039_2</SimpleData>
+		<SimpleData name="CMAX">8594.00000000000</SimpleData>
+		<SimpleData name="CVALUE">6015.80000000000</SimpleData>
+		<SimpleData name="MEAS_PRS2">2.01000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>129.375277357182,36.0267264512486</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#prrg">
+		<SimpleData name="OBJECTID">296</SimpleData>
+		<SimpleData name="SEQ">439.00000000000</SimpleData>
+		<SimpleData name="ID">RG-2010-0001</SimpleData>
+		<SimpleData name="PBCO_NO_OL">2010G0003</SimpleData>
+		<SimpleData name="ENABLED">1</SimpleData>
+		<SimpleData name="PBCO_NO">2010G0003</SimpleData>
+		<SimpleData name="PRRG_NM">미도성</SimpleData>
+		<SimpleData name="PRRG_TYPE">PALACE-80L</SimpleData>
+		<SimpleData name="CTRLNODE">CTRLN30723_1</SimpleData>
+		<SimpleData name="CMAX">8594.00000000000</SimpleData>
+		<SimpleData name="CVALUE">6015.80000000000</SimpleData>
+		<SimpleData name="MEAS_PRS2">2.17000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>129.36290392157,36.0300496650831</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#prrg">
+		<SimpleData name="OBJECTID">646</SimpleData>
+		<SimpleData name="SEQ">743.00000000000</SimpleData>
+		<SimpleData name="ID">RG-2013-0001</SimpleData>
+		<SimpleData name="PBCO_NO_OL">2013G0001</SimpleData>
+		<SimpleData name="ENABLED">1</SimpleData>
+		<SimpleData name="PBCO_NO">2013G0001</SimpleData>
+		<SimpleData name="PRRG_NM">죽파</SimpleData>
+		<SimpleData name="PRRG_TYPE">PALACE-80L</SimpleData>
+		<SimpleData name="CTRLNODE">CTRLN45165_1</SimpleData>
+		<SimpleData name="CMAX">8594.00000000000</SimpleData>
+		<SimpleData name="CVALUE">6015.80000000000</SimpleData>
+		<SimpleData name="MEAS_PRS2">2.13000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>129.360939361497,36.0261550518061</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#prrg">
+		<SimpleData name="OBJECTID">170</SimpleData>
+		<SimpleData name="SEQ">313.00000000000</SimpleData>
+		<SimpleData name="ID">RG-2011-0003</SimpleData>
+		<SimpleData name="PBCO_NO_OL">2011G0007</SimpleData>
+		<SimpleData name="ENABLED">1</SimpleData>
+		<SimpleData name="PBCO_NO">2011G0007</SimpleData>
+		<SimpleData name="PRRG_NM">대해</SimpleData>
+		<SimpleData name="PRRG_TYPE">K-19</SimpleData>
+		<SimpleData name="CTRLNODE">CTRLN36941_2</SimpleData>
+		<SimpleData name="CMAX">11005.00000000000</SimpleData>
+		<SimpleData name="CVALUE">7703.50000000000</SimpleData>
+		<SimpleData name="MEAS_PRS2">1.96000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>129.368576593711,36.0233392906575</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#prrg">
+		<SimpleData name="OBJECTID">443</SimpleData>
+		<SimpleData name="SEQ">586.00000000000</SimpleData>
+		<SimpleData name="ID">RG-2002-0001</SimpleData>
+		<SimpleData name="PBCO_NO_OL">2002B0002</SimpleData>
+		<SimpleData name="ENABLED">1</SimpleData>
+		<SimpleData name="PBCO_NO">2002B0002</SimpleData>
+		<SimpleData name="PRRG_NM">반도</SimpleData>
+		<SimpleData name="PRRG_TYPE">AFV-3HL</SimpleData>
+		<SimpleData name="CTRLNODE">CTRLN24340_2</SimpleData>
+		<SimpleData name="CMAX">8594.00000000000</SimpleData>
+		<SimpleData name="CVALUE">6015.80000000000</SimpleData>
+		<SimpleData name="MEAS_PRS2">2.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>129.365356194734,36.0163675153883</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#prrg">
+		<SimpleData name="OBJECTID">688</SimpleData>
+		<SimpleData name="SEQ">87.00000000000</SimpleData>
+		<SimpleData name="ID">RG-2011-0004</SimpleData>
+		<SimpleData name="PBCO_NO_OL">2011G0008</SimpleData>
+		<SimpleData name="ENABLED">1</SimpleData>
+		<SimpleData name="PBCO_NO">2011G0008</SimpleData>
+		<SimpleData name="PRRG_NM">송도</SimpleData>
+		<SimpleData name="PRRG_TYPE">K-19</SimpleData>
+		<SimpleData name="CTRLNODE">CTRLN41629_1</SimpleData>
+		<SimpleData name="CMAX">11005.00000000000</SimpleData>
+		<SimpleData name="CVALUE">7703.50000000000</SimpleData>
+		<SimpleData name="MEAS_PRS2">2.04000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>129.37213677611,36.0324300036326</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#prrg">
+		<SimpleData name="OBJECTID">625</SimpleData>
+		<SimpleData name="SEQ">31.00000000000</SimpleData>
+		<SimpleData name="ID">RG-2012-0001</SimpleData>
+		<SimpleData name="PBCO_NO_OL">2012G0005</SimpleData>
+		<SimpleData name="ENABLED">1</SimpleData>
+		<SimpleData name="PBCO_NO">2012G0005</SimpleData>
+		<SimpleData name="PRRG_NM">육거리</SimpleData>
+		<SimpleData name="PRRG_TYPE">PALACE-80L</SimpleData>
+		<SimpleData name="CTRLNODE">CTRLN40821_2</SimpleData>
+		<SimpleData name="CMAX">8594.00000000000</SimpleData>
+		<SimpleData name="CVALUE">6015.80000000000</SimpleData>
+		<SimpleData name="MEAS_PRS2">2.14000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>129.365438410018,36.0433841852065</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#prrg">
+		<SimpleData name="OBJECTID">456</SimpleData>
+		<SimpleData name="SEQ">599.00000000000</SimpleData>
+		<SimpleData name="ID">RG-1990-0001</SimpleData>
+		<SimpleData name="PBCO_NO_OL">1990B0013</SimpleData>
+		<SimpleData name="ENABLED">1</SimpleData>
+		<SimpleData name="PBCO_NO">1990B0013</SimpleData>
+		<SimpleData name="PRRG_NM">우방</SimpleData>
+		<SimpleData name="PRRG_TYPE">AFV-2HL</SimpleData>
+		<SimpleData name="CTRLNODE">CTRLN8282_2</SimpleData>
+		<SimpleData name="CMAX">4583.00000000000</SimpleData>
+		<SimpleData name="CVALUE">3208.10000000000</SimpleData>
+		<SimpleData name="MEAS_PRS2">2.11000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>129.352353728939,36.041276700033</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#prrg">
+		<SimpleData name="OBJECTID">476</SimpleData>
+		<SimpleData name="SEQ">619.00000000000</SimpleData>
+		<SimpleData name="ID">RG-2001-0003</SimpleData>
+		<SimpleData name="PBCO_NO_OL">2001B0002</SimpleData>
+		<SimpleData name="ENABLED">1</SimpleData>
+		<SimpleData name="PBCO_NO">2001B0002</SimpleData>
+		<SimpleData name="PRRG_NM">동빈</SimpleData>
+		<SimpleData name="PRRG_TYPE">AFV-2HL</SimpleData>
+		<SimpleData name="CTRLNODE">CTRLN10312_2</SimpleData>
+		<SimpleData name="CMAX">4583.00000000000</SimpleData>
+		<SimpleData name="CVALUE">3208.10000000000</SimpleData>
+		<SimpleData name="MEAS_PRS2">2.11000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>129.370988478469,36.0464984752164</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#prrg">
+		<SimpleData name="OBJECTID">641</SimpleData>
+		<SimpleData name="SEQ">738.00000000000</SimpleData>
+		<SimpleData name="ID">RG-1995-0005</SimpleData>
+		<SimpleData name="PBCO_NO_OL">1995B0016</SimpleData>
+		<SimpleData name="ENABLED">1</SimpleData>
+		<SimpleData name="PBCO_NO">1995B0016</SimpleData>
+		<SimpleData name="PRRG_NM">하나로</SimpleData>
+		<SimpleData name="PRRG_TYPE">AFV-2HL</SimpleData>
+		<SimpleData name="CTRLNODE">CTRLN13669_2</SimpleData>
+		<SimpleData name="CMAX">4583.00000000000</SimpleData>
+		<SimpleData name="CVALUE">3208.10000000000</SimpleData>
+		<SimpleData name="MEAS_PRS2">1.99000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>129.355112779173,36.0468292339009</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#prrg">
+		<SimpleData name="OBJECTID">455</SimpleData>
+		<SimpleData name="SEQ">598.00000000000</SimpleData>
+		<SimpleData name="ID">RG-1996-0001</SimpleData>
+		<SimpleData name="PBCO_NO_OL">1996B0003</SimpleData>
+		<SimpleData name="ENABLED">1</SimpleData>
+		<SimpleData name="PBCO_NO">1996B0003</SimpleData>
+		<SimpleData name="PRRG_NM">삼성</SimpleData>
+		<SimpleData name="PRRG_TYPE">AFV-2HL</SimpleData>
+		<SimpleData name="CTRLNODE">CTRLN8275_1</SimpleData>
+		<SimpleData name="CMAX">4583.00000000000</SimpleData>
+		<SimpleData name="CVALUE">3208.10000000000</SimpleData>
+		<SimpleData name="MEAS_PRS2">2.15000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>129.351559306408,36.0371846694983</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#prrg">
+		<SimpleData name="OBJECTID">9922</SimpleData>
+		<SimpleData name="SEQ">769.00000000000</SimpleData>
+		<SimpleData name="ID">RG-2015-0003</SimpleData>
+		<SimpleData name="ENABLED">1</SimpleData>
+		<SimpleData name="PBCO_NO">2015G0003</SimpleData>
+		<SimpleData name="PRRG_NM">득량</SimpleData>
+		<SimpleData name="CTRLNODE">CTRLN50184_2</SimpleData>
+		<SimpleData name="CMAX">8594.00000000000</SimpleData>
+		<SimpleData name="CVALUE">6015.80000000000</SimpleData>
+		<SimpleData name="MEAS_PRS2">0.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>129.355300262558,36.0299260318931</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#prrg">
+		<SimpleData name="OBJECTID">348</SimpleData>
+		<SimpleData name="SEQ">491.00000000000</SimpleData>
+		<SimpleData name="ID">RG-2002-0002</SimpleData>
+		<SimpleData name="PBCO_NO_OL">2002A0543</SimpleData>
+		<SimpleData name="ENABLED">1</SimpleData>
+		<SimpleData name="PBCO_NO">2002A0543</SimpleData>
+		<SimpleData name="PRRG_NM">코오롱</SimpleData>
+		<SimpleData name="PRRG_TYPE">FISHER-2&quot;</SimpleData>
+		<SimpleData name="CTRLNODE">CTRLN3485_2</SimpleData>
+		<SimpleData name="CMAX">4583.00000000000</SimpleData>
+		<SimpleData name="CVALUE">3208.10000000000</SimpleData>
+		<SimpleData name="MEAS_PRS2">2.05000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>129.368418622667,36.0508510221337</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#prrg">
+		<SimpleData name="OBJECTID">707</SimpleData>
+		<SimpleData name="SEQ">106.00000000000</SimpleData>
+		<SimpleData name="ID">RG-2000-0004</SimpleData>
+		<SimpleData name="PBCO_NO_OL">2000B0006</SimpleData>
+		<SimpleData name="ENABLED">1</SimpleData>
+		<SimpleData name="PBCO_NO">2000B0006</SimpleData>
+		<SimpleData name="PRRG_NM">신동아</SimpleData>
+		<SimpleData name="PRRG_TYPE">FISHER-2&quot;</SimpleData>
+		<SimpleData name="CTRLNODE">CTRLN53066_1</SimpleData>
+		<SimpleData name="CMAX">4583.00000000000</SimpleData>
+		<SimpleData name="CVALUE">3208.10000000000</SimpleData>
+		<SimpleData name="MEAS_PRS2">2.07000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>129.359733576607,36.0548200011013</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#prrg">
+		<SimpleData name="OBJECTID">188</SimpleData>
+		<SimpleData name="SEQ">331.00000000000</SimpleData>
+		<SimpleData name="ID">RG-2010-0003</SimpleData>
+		<SimpleData name="PBCO_NO_OL">2010G0007</SimpleData>
+		<SimpleData name="ENABLED">1</SimpleData>
+		<SimpleData name="PBCO_NO">2010G0007</SimpleData>
+		<SimpleData name="PRRG_NM">우현</SimpleData>
+		<SimpleData name="PRRG_TYPE">K-19</SimpleData>
+		<SimpleData name="CTRLNODE">CTRLN38151_2</SimpleData>
+		<SimpleData name="CMAX">8594.00000000000</SimpleData>
+		<SimpleData name="CVALUE">6015.80000000000</SimpleData>
+		<SimpleData name="MEAS_PRS2">2.14000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>129.363553416375,36.0548804342624</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#prrg">
+		<SimpleData name="OBJECTID">426</SimpleData>
+		<SimpleData name="SEQ">569.00000000000</SimpleData>
+		<SimpleData name="ID">RG-2001-0004</SimpleData>
+		<SimpleData name="PBCO_NO_OL">2001B0004</SimpleData>
+		<SimpleData name="ENABLED">1</SimpleData>
+		<SimpleData name="PBCO_NO">2001B0004</SimpleData>
+		<SimpleData name="PRRG_NM">신천지</SimpleData>
+		<SimpleData name="PRRG_TYPE">AFV-3HL</SimpleData>
+		<SimpleData name="CTRLNODE">CTRLN3384_2</SimpleData>
+		<SimpleData name="CMAX">8594.00000000000</SimpleData>
+		<SimpleData name="CVALUE">6015.80000000000</SimpleData>
+		<SimpleData name="MEAS_PRS2">2.06000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>129.370789601138,36.0595326053894</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#prrg">
+		<SimpleData name="OBJECTID">218</SimpleData>
+		<SimpleData name="SEQ">361.00000000000</SimpleData>
+		<SimpleData name="ID">RG-1999-0002</SimpleData>
+		<SimpleData name="PBCO_NO_OL">1999B0002</SimpleData>
+		<SimpleData name="ENABLED">1</SimpleData>
+		<SimpleData name="PBCO_NO">1999B0002</SimpleData>
+		<SimpleData name="PRRG_NM">학잠</SimpleData>
+		<SimpleData name="PRRG_TYPE">FISHER-2&quot;</SimpleData>
+		<SimpleData name="CTRLNODE">CTRLN29453_2</SimpleData>
+		<SimpleData name="CMAX">4821.00000000000</SimpleData>
+		<SimpleData name="CVALUE">3374.70000000000</SimpleData>
+		<SimpleData name="MEAS_PRS2">1.91000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>129.350916294286,36.0276255434248</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#prrg">
+		<SimpleData name="OBJECTID">733</SimpleData>
+		<SimpleData name="SEQ">132.00000000000</SimpleData>
+		<SimpleData name="ID">RG-2014-0001</SimpleData>
+		<SimpleData name="PBCO_NO_OL">2014G0001</SimpleData>
+		<SimpleData name="ENABLED">1</SimpleData>
+		<SimpleData name="PBCO_NO">2014G0001</SimpleData>
+		<SimpleData name="PRRG_NM">양학</SimpleData>
+		<SimpleData name="PRRG_TYPE">K-19</SimpleData>
+		<SimpleData name="CTRLNODE">CTRLN45418_2</SimpleData>
+		<SimpleData name="CMAX">11005.00000000000</SimpleData>
+		<SimpleData name="CVALUE">7703.50000000000</SimpleData>
+		<SimpleData name="MEAS_PRS2">1.94000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>129.346167781588,36.0284720508101</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#prrg">
+		<SimpleData name="OBJECTID">574</SimpleData>
+		<SimpleData name="SEQ">717.00000000000</SimpleData>
+		<SimpleData name="ID">RG-1998-0002</SimpleData>
+		<SimpleData name="PBCO_NO_OL">1998B0002</SimpleData>
+		<SimpleData name="ENABLED">1</SimpleData>
+		<SimpleData name="PBCO_NO">1998B0002</SimpleData>
+		<SimpleData name="PRRG_NM">동아</SimpleData>
+		<SimpleData name="PRRG_TYPE">FISHER-2&quot;</SimpleData>
+		<SimpleData name="CTRLNODE">CTRLN12617_1</SimpleData>
+		<SimpleData name="CMAX">4821.00000000000</SimpleData>
+		<SimpleData name="CVALUE">3374.70000000000</SimpleData>
+		<SimpleData name="MEAS_PRS2">1.91000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>129.342259972525,36.033932319019</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#prrg">
+		<SimpleData name="OBJECTID">14083</SimpleData>
+		<SimpleData name="SEQ">808.00000000000</SimpleData>
+		<SimpleData name="ID">RG-2016-0003</SimpleData>
+		<SimpleData name="ENABLED">1</SimpleData>
+		<SimpleData name="PBCO_NO">2016G0003</SimpleData>
+		<SimpleData name="PRRG_NM">대이</SimpleData>
+		<SimpleData name="CTRLNODE">CTRLN53834_2</SimpleData>
+		<SimpleData name="CMAX">11459.00000000000</SimpleData>
+		<SimpleData name="CVALUE">8021.30000000000</SimpleData>
+		<SimpleData name="MEAS_PRS2">0.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>129.336094078147,36.0318420371481</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#prrg">
+		<SimpleData name="OBJECTID">8</SimpleData>
+		<SimpleData name="SEQ">151.00000000000</SimpleData>
+		<SimpleData name="ID">RG-2004-0002</SimpleData>
+		<SimpleData name="PBCO_NO_OL">2004B0496</SimpleData>
+		<SimpleData name="ENABLED">1</SimpleData>
+		<SimpleData name="PBCO_NO">2004B0496</SimpleData>
+		<SimpleData name="PRRG_NM">대잠</SimpleData>
+		<SimpleData name="PRRG_TYPE">AFV-3HL</SimpleData>
+		<SimpleData name="CTRLNODE">CTRLN47289_1</SimpleData>
+		<SimpleData name="CMAX">8594.00000000000</SimpleData>
+		<SimpleData name="CVALUE">6015.80000000000</SimpleData>
+		<SimpleData name="MEAS_PRS2">2.09000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>129.343011739726,36.0212107283957</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#prrg">
+		<SimpleData name="OBJECTID">23</SimpleData>
+		<SimpleData name="SEQ">166.00000000000</SimpleData>
+		<SimpleData name="ID">RG-1999-0001</SimpleData>
+		<SimpleData name="PBCO_NO_OL">1999B0001</SimpleData>
+		<SimpleData name="ENABLED">1</SimpleData>
+		<SimpleData name="PBCO_NO">1999B0001</SimpleData>
+		<SimpleData name="PRRG_NM">이동</SimpleData>
+		<SimpleData name="PRRG_TYPE">AFV-3HL</SimpleData>
+		<SimpleData name="CTRLNODE">CTRLN24463_2</SimpleData>
+		<SimpleData name="CMAX">8594.00000000000</SimpleData>
+		<SimpleData name="CVALUE">6015.80000000000</SimpleData>
+		<SimpleData name="MEAS_PRS2">2.09000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>129.343467176719,36.0253572510097</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#prrg">
+		<SimpleData name="OBJECTID">171</SimpleData>
+		<SimpleData name="SEQ">314.00000000000</SimpleData>
+		<SimpleData name="ID">RG-2011-0002</SimpleData>
+		<SimpleData name="PBCO_NO_OL">2011G0006</SimpleData>
+		<SimpleData name="ENABLED">1</SimpleData>
+		<SimpleData name="PBCO_NO">2011G0006</SimpleData>
+		<SimpleData name="PRRG_NM">성모</SimpleData>
+		<SimpleData name="PRRG_TYPE">K-19</SimpleData>
+		<SimpleData name="CTRLNODE">CTRLN36505_1</SimpleData>
+		<SimpleData name="CMAX">11005.00000000000</SimpleData>
+		<SimpleData name="CVALUE">7703.50000000000</SimpleData>
+		<SimpleData name="MEAS_PRS2">2.03000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>129.340345326673,36.0121458355247</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#prrg">
+		<SimpleData name="OBJECTID">87</SimpleData>
+		<SimpleData name="SEQ">230.00000000000</SimpleData>
+		<SimpleData name="ID">RG-1995-0001</SimpleData>
+		<SimpleData name="PBCO_NO_OL">1995B0001</SimpleData>
+		<SimpleData name="ENABLED">1</SimpleData>
+		<SimpleData name="PBCO_NO">1995B0001</SimpleData>
+		<SimpleData name="PRRG_NM">신단지</SimpleData>
+		<SimpleData name="PRRG_TYPE">AFV-2HL</SimpleData>
+		<SimpleData name="CTRLNODE">CTRLN15778_1</SimpleData>
+		<SimpleData name="CMAX">4583.00000000000</SimpleData>
+		<SimpleData name="CVALUE">3208.10000000000</SimpleData>
+		<SimpleData name="MEAS_PRS2">2.02000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>129.327718422107,36.031455057042</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#prrg">
+		<SimpleData name="OBJECTID">16983</SimpleData>
+		<SimpleData name="SEQ">25.00000000000</SimpleData>
+		<SimpleData name="ID">RG-2012-0002</SimpleData>
+		<SimpleData name="PBCO_NO_OL">2012G0001</SimpleData>
+		<SimpleData name="ENABLED">1</SimpleData>
+		<SimpleData name="PBCO_NO">2012G0001</SimpleData>
+		<SimpleData name="PRRG_NM">효곡</SimpleData>
+		<SimpleData name="PRRG_TYPE">K-19</SimpleData>
+		<SimpleData name="CTRLNODE">CTRLN40469_2</SimpleData>
+		<SimpleData name="CMAX">11005.00000000000</SimpleData>
+		<SimpleData name="CVALUE">7703.50000000000</SimpleData>
+		<SimpleData name="MEAS_PRS2">1.81000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>129.328880773249,36.0071309378296</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#prrg">
+		<SimpleData name="OBJECTID">167</SimpleData>
+		<SimpleData name="SEQ">310.00000000000</SimpleData>
+		<SimpleData name="ID">RG-2007-0001</SimpleData>
+		<SimpleData name="PBCO_NO_OL">2007G0002</SimpleData>
+		<SimpleData name="ENABLED">1</SimpleData>
+		<SimpleData name="PBCO_NO">2007G0002</SimpleData>
+		<SimpleData name="PRRG_NM">효자</SimpleData>
+		<SimpleData name="PRRG_TYPE">FISHER-3&quot;</SimpleData>
+		<SimpleData name="CTRLNODE">CTRLN35953_2</SimpleData>
+		<SimpleData name="CMAX">10371.00000000000</SimpleData>
+		<SimpleData name="CVALUE">7259.70000000000</SimpleData>
+		<SimpleData name="MEAS_PRS2">1.91000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>129.333251959298,36.0069362157758</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#prrg">
+		<SimpleData name="OBJECTID">211</SimpleData>
+		<SimpleData name="SEQ">354.00000000000</SimpleData>
+		<SimpleData name="ID">RG-2008-0003</SimpleData>
+		<SimpleData name="PBCO_NO_OL">2008G0004</SimpleData>
+		<SimpleData name="ENABLED">1</SimpleData>
+		<SimpleData name="PBCO_NO">2008G0004</SimpleData>
+		<SimpleData name="PRRG_NM">오광장</SimpleData>
+		<SimpleData name="PRRG_TYPE">K-19</SimpleData>
+		<SimpleData name="CTRLNODE">CTRLN26134_2</SimpleData>
+		<SimpleData name="CMAX">11005.00000000000</SimpleData>
+		<SimpleData name="CVALUE">7703.50000000000</SimpleData>
+		<SimpleData name="MEAS_PRS2">1.95000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>129.357099553304,36.0193970243026</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#prrg">
+		<SimpleData name="OBJECTID">270</SimpleData>
+		<SimpleData name="SEQ">413.00000000000</SimpleData>
+		<SimpleData name="ID">RG-2009-0001</SimpleData>
+		<SimpleData name="PBCO_NO_OL">2009G0001</SimpleData>
+		<SimpleData name="ENABLED">1</SimpleData>
+		<SimpleData name="PBCO_NO">2009G0001</SimpleData>
+		<SimpleData name="PRRG_NM">운동장</SimpleData>
+		<SimpleData name="PRRG_TYPE">PALACE-80L</SimpleData>
+		<SimpleData name="CTRLNODE">CTRLN24602_2</SimpleData>
+		<SimpleData name="CMAX">8594.00000000000</SimpleData>
+		<SimpleData name="CVALUE">6015.80000000000</SimpleData>
+		<SimpleData name="MEAS_PRS2">2.01000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>129.364467594556,36.0101812199591</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#prrg">
+		<SimpleData name="OBJECTID">345</SimpleData>
+		<SimpleData name="SEQ">488.00000000000</SimpleData>
+		<SimpleData name="ID">RG-1993-0001</SimpleData>
+		<SimpleData name="PBCO_NO_OL">1993B0002</SimpleData>
+		<SimpleData name="ENABLED">1</SimpleData>
+		<SimpleData name="PBCO_NO">1993B0002</SimpleData>
+		<SimpleData name="PRRG_NM">KBS</SimpleData>
+		<SimpleData name="PRRG_TYPE">AFV-2HL</SimpleData>
+		<SimpleData name="CTRLNODE">CTRLN761_1</SimpleData>
+		<SimpleData name="CMAX">4583.00000000000</SimpleData>
+		<SimpleData name="CVALUE">3208.10000000000</SimpleData>
+		<SimpleData name="MEAS_PRS2">1.98000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>129.352401248022,36.0120578889648</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#prrg">
+		<SimpleData name="OBJECTID">24</SimpleData>
+		<SimpleData name="SEQ">167.00000000000</SimpleData>
+		<SimpleData name="ID">RG-2005-0001</SimpleData>
+		<SimpleData name="PBCO_NO_OL">2005B0362</SimpleData>
+		<SimpleData name="ENABLED">1</SimpleData>
+		<SimpleData name="PBCO_NO">2005B0362</SimpleData>
+		<SimpleData name="PRRG_NM">MBC</SimpleData>
+		<SimpleData name="PRRG_TYPE">FISHER-3&quot;</SimpleData>
+		<SimpleData name="CTRLNODE">CTRLN10706_1</SimpleData>
+		<SimpleData name="CMAX">10371.00000000000</SimpleData>
+		<SimpleData name="CVALUE">7259.70000000000</SimpleData>
+		<SimpleData name="MEAS_PRS2">1.95000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>129.343179555615,36.0139257909041</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#prrg">
+		<SimpleData name="OBJECTID">152</SimpleData>
+		<SimpleData name="SEQ">295.00000000000</SimpleData>
+		<SimpleData name="ID">RG-1995-0003</SimpleData>
+		<SimpleData name="PBCO_NO_OL">1995B0008</SimpleData>
+		<SimpleData name="ENABLED">1</SimpleData>
+		<SimpleData name="PBCO_NO">1995B0008</SimpleData>
+		<SimpleData name="PRRG_NM">형산</SimpleData>
+		<SimpleData name="PRRG_TYPE">AFV-2HL</SimpleData>
+		<SimpleData name="CTRLNODE">CTRLN61604_1</SimpleData>
+		<SimpleData name="CMAX">4583.00000000000</SimpleData>
+		<SimpleData name="CVALUE">3208.10000000000</SimpleData>
+		<SimpleData name="MEAS_PRS2">2.11000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>129.343718184143,36.0000315156433</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#prrg">
+		<SimpleData name="OBJECTID">197</SimpleData>
+		<SimpleData name="SEQ">340.00000000000</SimpleData>
+		<SimpleData name="ID">RG-2006-0002</SimpleData>
+		<SimpleData name="PBCO_NO_OL">2006G5002</SimpleData>
+		<SimpleData name="ENABLED">1</SimpleData>
+		<SimpleData name="PBCO_NO">2006G5002</SimpleData>
+		<SimpleData name="PRRG_NM">원동</SimpleData>
+		<SimpleData name="PRRG_TYPE">AFV-3HL</SimpleData>
+		<SimpleData name="CTRLNODE">CTRLN37813_2</SimpleData>
+		<SimpleData name="CMAX">8594.00000000000</SimpleData>
+		<SimpleData name="CVALUE">6015.80000000000</SimpleData>
+		<SimpleData name="MEAS_PRS2">2.01000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>129.400532390205,35.9694015383557</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#prrg">
+		<SimpleData name="OBJECTID">626</SimpleData>
+		<SimpleData name="SEQ">32.00000000000</SimpleData>
+		<SimpleData name="ID">RG-2012-0003</SimpleData>
+		<SimpleData name="PBCO_NO_OL">2012G0003</SimpleData>
+		<SimpleData name="ENABLED">1</SimpleData>
+		<SimpleData name="PBCO_NO">2012G0003</SimpleData>
+		<SimpleData name="PRRG_NM">연일</SimpleData>
+		<SimpleData name="PRRG_TYPE">PALACE-80L</SimpleData>
+		<SimpleData name="CTRLNODE">CTRLN40824_1</SimpleData>
+		<SimpleData name="CMAX">8594.00000000000</SimpleData>
+		<SimpleData name="CVALUE">6015.80000000000</SimpleData>
+		<SimpleData name="MEAS_PRS2">2.21000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>129.343861506448,35.9965150861983</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#prrg">
+		<SimpleData name="OBJECTID">405</SimpleData>
+		<SimpleData name="SEQ">548.00000000000</SimpleData>
+		<SimpleData name="ID">RG-2000-0005</SimpleData>
+		<SimpleData name="PBCO_NO_OL">2000B0008</SimpleData>
+		<SimpleData name="ENABLED">1</SimpleData>
+		<SimpleData name="PBCO_NO">2000B0008</SimpleData>
+		<SimpleData name="PRRG_NM">문덕</SimpleData>
+		<SimpleData name="PRRG_TYPE">FISHER-2&quot;</SimpleData>
+		<SimpleData name="CTRLNODE">CTRLN2149_1</SimpleData>
+		<SimpleData name="CMAX">4821.00000000000</SimpleData>
+		<SimpleData name="CVALUE">3374.70000000000</SimpleData>
+		<SimpleData name="MEAS_PRS2">2.26000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>129.39903758979,35.9606921347218</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#prrg">
+		<SimpleData name="OBJECTID">206</SimpleData>
+		<SimpleData name="SEQ">349.00000000000</SimpleData>
+		<SimpleData name="ID">RG-1998-0004</SimpleData>
+		<SimpleData name="PBCO_NO_OL">1998B0004</SimpleData>
+		<SimpleData name="ENABLED">1</SimpleData>
+		<SimpleData name="PBCO_NO">1998B0004</SimpleData>
+		<SimpleData name="PRRG_NM">삼도</SimpleData>
+		<SimpleData name="PRRG_TYPE">AFV-2HL</SimpleData>
+		<SimpleData name="CTRLNODE">CTRLN17461_2</SimpleData>
+		<SimpleData name="CMAX">4583.00000000000</SimpleData>
+		<SimpleData name="CVALUE">3208.10000000000</SimpleData>
+		<SimpleData name="MEAS_PRS2">2.22000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>129.34917014158,35.9910610411299</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#prrg">
+		<SimpleData name="OBJECTID">24001</SimpleData>
+		<SimpleData name="SEQ">842.00000000000</SimpleData>
+		<SimpleData name="ID">RG-2017-0004</SimpleData>
+		<SimpleData name="ENABLED">1</SimpleData>
+		<SimpleData name="PBCO_NO">2017G0004</SimpleData>
+		<SimpleData name="PRRG_NM">대송</SimpleData>
+		<SimpleData name="CTRLNODE">CTRLN56391_2</SimpleData>
+		<SimpleData name="CMAX">4583.00000000000</SimpleData>
+		<SimpleData name="CVALUE">3208.10000000000</SimpleData>
+		<SimpleData name="MEAS_PRS2">0.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>129.366477524032,35.9828601964615</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#prrg">
+		<SimpleData name="OBJECTID">498</SimpleData>
+		<SimpleData name="SEQ">641.00000000000</SimpleData>
+		<SimpleData name="ID">RG-1990-0002</SimpleData>
+		<SimpleData name="PBCO_NO_OL">1990B0019</SimpleData>
+		<SimpleData name="ENABLED">1</SimpleData>
+		<SimpleData name="PBCO_NO">1990B0019</SimpleData>
+		<SimpleData name="PRRG_NM">인덕</SimpleData>
+		<SimpleData name="PRRG_TYPE">AFV-2HL</SimpleData>
+		<SimpleData name="CTRLNODE">CTRLN20150_1</SimpleData>
+		<SimpleData name="CMAX">4583.00000000000</SimpleData>
+		<SimpleData name="CVALUE">3208.10000000000</SimpleData>
+		<SimpleData name="MEAS_PRS2">2.09000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>129.394815054116,35.9925391157953</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#prrg">
+		<SimpleData name="OBJECTID">716</SimpleData>
+		<SimpleData name="SEQ">115.00000000000</SimpleData>
+		<SimpleData name="ID">RG-2013-0002</SimpleData>
+		<SimpleData name="PBCO_NO_OL">2013G0002</SimpleData>
+		<SimpleData name="ENABLED">1</SimpleData>
+		<SimpleData name="PBCO_NO">2013G0002</SimpleData>
+		<SimpleData name="PRRG_NM">부영</SimpleData>
+		<SimpleData name="PRRG_TYPE">K-19</SimpleData>
+		<SimpleData name="CTRLNODE">CTRLN44187_2</SimpleData>
+		<SimpleData name="CMAX">11005.00000000000</SimpleData>
+		<SimpleData name="CVALUE">7703.50000000000</SimpleData>
+		<SimpleData name="MEAS_PRS2">2.18000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>129.399735707209,35.9731650671104</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#prrg">
+		<SimpleData name="OBJECTID">279</SimpleData>
+		<SimpleData name="SEQ">422.00000000000</SimpleData>
+		<SimpleData name="ID">RG-2009-0002</SimpleData>
+		<SimpleData name="PBCO_NO_OL">2009G0002</SimpleData>
+		<SimpleData name="ENABLED">1</SimpleData>
+		<SimpleData name="PBCO_NO">2009G0002</SimpleData>
+		<SimpleData name="PRRG_NM">오천</SimpleData>
+		<SimpleData name="PRRG_TYPE">PALACE-80L</SimpleData>
+		<SimpleData name="CTRLNODE">CTRLN29215_1</SimpleData>
+		<SimpleData name="CMAX">8594.00000000000</SimpleData>
+		<SimpleData name="CVALUE">6015.80000000000</SimpleData>
+		<SimpleData name="MEAS_PRS2">2.16000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>129.407338900139,35.9613801477712</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#prrg">
+		<SimpleData name="OBJECTID">325</SimpleData>
+		<SimpleData name="SEQ">468.00000000000</SimpleData>
+		<SimpleData name="ID">RG-2011-0001</SimpleData>
+		<SimpleData name="PBCO_NO_OL">2011G0001</SimpleData>
+		<SimpleData name="ENABLED">1</SimpleData>
+		<SimpleData name="PBCO_NO">2011G0001</SimpleData>
+		<SimpleData name="PRRG_NM">보광</SimpleData>
+		<SimpleData name="PRRG_TYPE">AFV-2HL</SimpleData>
+		<SimpleData name="CTRLNODE">CTRLN33254_1</SimpleData>
+		<SimpleData name="CMAX">4583.00000000000</SimpleData>
+		<SimpleData name="CVALUE">3208.10000000000</SimpleData>
+		<SimpleData name="MEAS_PRS2">2.08000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>129.392068646693,35.938837677199</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#prrg">
+		<SimpleData name="OBJECTID">493</SimpleData>
+		<SimpleData name="SEQ">636.00000000000</SimpleData>
+		<SimpleData name="ID">RG-1995-0002</SimpleData>
+		<SimpleData name="PBCO_NO_OL">1995B0007</SimpleData>
+		<SimpleData name="ENABLED">1</SimpleData>
+		<SimpleData name="PBCO_NO">1995B0007</SimpleData>
+		<SimpleData name="PRRG_NM">신세계</SimpleData>
+		<SimpleData name="PRRG_TYPE">AFV-3HL</SimpleData>
+		<SimpleData name="CTRLNODE">CTRLN2061_1</SimpleData>
+		<SimpleData name="CMAX">8594.00000000000</SimpleData>
+		<SimpleData name="CVALUE">6015.80000000000</SimpleData>
+		<SimpleData name="MEAS_PRS2">2.10000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>129.405378814532,35.9839021457168</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#prrg">
+		<SimpleData name="OBJECTID">494</SimpleData>
+		<SimpleData name="SEQ">637.00000000000</SimpleData>
+		<SimpleData name="ID">RG-1993-0002</SimpleData>
+		<SimpleData name="PBCO_NO_OL">1993B0006</SimpleData>
+		<SimpleData name="ENABLED">1</SimpleData>
+		<SimpleData name="PBCO_NO">1993B0006</SimpleData>
+		<SimpleData name="PRRG_NM">청림</SimpleData>
+		<SimpleData name="PRRG_TYPE">AFV-2HL</SimpleData>
+		<SimpleData name="CTRLNODE">CTRLN12970_1</SimpleData>
+		<SimpleData name="CMAX">4583.00000000000</SimpleData>
+		<SimpleData name="CVALUE">3208.10000000000</SimpleData>
+		<SimpleData name="MEAS_PRS2">2.08000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>129.404490540218,35.9911299783258</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#prrg">
+		<SimpleData name="OBJECTID">111</SimpleData>
+		<SimpleData name="SEQ">254.00000000000</SimpleData>
+		<SimpleData name="ID">RG-2001-0001</SimpleData>
+		<SimpleData name="PBCO_NO_OL">2001B0001</SimpleData>
+		<SimpleData name="ENABLED">1</SimpleData>
+		<SimpleData name="PBCO_NO">2001B0001</SimpleData>
+		<SimpleData name="PRRG_NM">도구</SimpleData>
+		<SimpleData name="PRRG_TYPE">AFV-2HL</SimpleData>
+		<SimpleData name="CTRLNODE">CTRLN16102_2</SimpleData>
+		<SimpleData name="CMAX">4583.00000000000</SimpleData>
+		<SimpleData name="CVALUE">3208.10000000000</SimpleData>
+		<SimpleData name="MEAS_PRS2">2.05000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>129.450298936056,35.9890016237797</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#prrg">
+		<SimpleData name="OBJECTID">28802</SimpleData>
+		<SimpleData name="SEQ">839.00000000000</SimpleData>
+		<SimpleData name="ID">RG-2017-0003</SimpleData>
+		<SimpleData name="ENABLED">1</SimpleData>
+		<SimpleData name="PBCO_NO">2017G0003</SimpleData>
+		<SimpleData name="PRRG_NM">동해</SimpleData>
+		<SimpleData name="CTRLNODE">CTRLN56112_2</SimpleData>
+		<SimpleData name="CMAX">4583.00000000000</SimpleData>
+		<SimpleData name="CVALUE">3208.10000000000</SimpleData>
+		<SimpleData name="MEAS_PRS2">0.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>129.444924178322,35.9831719684724</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#prrg">
+		<SimpleData name="OBJECTID">600</SimpleData>
+		<SimpleData name="SEQ">6.00000000000</SimpleData>
+		<SimpleData name="ID">RG-2007-0002</SimpleData>
+		<SimpleData name="PBCO_NO_OL">2007G0001</SimpleData>
+		<SimpleData name="ENABLED">1</SimpleData>
+		<SimpleData name="PBCO_NO">2007G0001</SimpleData>
+		<SimpleData name="PRRG_NM">코아루</SimpleData>
+		<SimpleData name="PRRG_TYPE">AFV-3HL</SimpleData>
+		<SimpleData name="CTRLNODE">CTRLN38946_1</SimpleData>
+		<SimpleData name="CMAX">8594.00000000000</SimpleData>
+		<SimpleData name="CVALUE">6015.80000000000</SimpleData>
+		<SimpleData name="MEAS_PRS2">1.93000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>129.321253279038,36.0069922174974</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#prrg">
+		<SimpleData name="OBJECTID">30401</SimpleData>
+		<SimpleData name="SEQ">862.00000000000</SimpleData>
+		<SimpleData name="ID">RG-2018-0005</SimpleData>
+		<SimpleData name="ENABLED">1</SimpleData>
+		<SimpleData name="PBCO_NO">2018G0002</SimpleData>
+		<SimpleData name="PRRG_NM">구정</SimpleData>
+		<SimpleData name="CTRLNODE">CTRLN62846_2</SimpleData>
+		<SimpleData name="CMAX">8594.00000000000</SimpleData>
+		<SimpleData name="CVALUE">6015.80000000000</SimpleData>
+		<SimpleData name="MEAS_PRS2">0.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>129.409707887143,35.9766560523788</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#prrg">
+		<SimpleData name="OBJECTID">31681</SimpleData>
+		<SimpleData name="SEQ">867.00000000000</SimpleData>
+		<SimpleData name="ID">RG-2019-0001</SimpleData>
+		<SimpleData name="ENABLED">1</SimpleData>
+		<SimpleData name="PBCO_NO">2019G0001</SimpleData>
+		<SimpleData name="PRRG_NM">석리</SimpleData>
+		<SimpleData name="CTRLNODE">CTRLN63234_2</SimpleData>
+		<SimpleData name="CMAX">3000.00000000000</SimpleData>
+		<SimpleData name="CVALUE">2100.00000000000</SimpleData>
+		<SimpleData name="MEAS_PRS2">0.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>129.475090447458,35.9893569189513</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#prrg">
+		<SimpleData name="OBJECTID">32001</SimpleData>
+		<SimpleData name="SEQ">868.00000000000</SimpleData>
+		<SimpleData name="ID">RG-2019-0002</SimpleData>
+		<SimpleData name="ENABLED">1</SimpleData>
+		<SimpleData name="PBCO_NO">2019G0002</SimpleData>
+		<SimpleData name="PRRG_NM">침촌</SimpleData>
+		<SimpleData name="CTRLNODE">CTRLN63111_2</SimpleData>
+		<SimpleData name="CMAX">3000.00000000000</SimpleData>
+		<SimpleData name="CVALUE">2100.00000000000</SimpleData>
+		<SimpleData name="MEAS_PRS2">0.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>129.380809899653,36.0874762951819</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#prrg">
+		<SimpleData name="OBJECTID">28801</SimpleData>
+		<SimpleData name="SEQ">744.00000000000</SimpleData>
+		<SimpleData name="ID">RG-2014-0004</SimpleData>
+		<SimpleData name="PBCO_NO_OL">2014G0004</SimpleData>
+		<SimpleData name="ENABLED">1</SimpleData>
+		<SimpleData name="PBCO_NO">2014G0004</SimpleData>
+		<SimpleData name="PRRG_NM">초곡</SimpleData>
+		<SimpleData name="PRRG_TYPE">K-19</SimpleData>
+		<SimpleData name="CTRLNODE">CTRLN47588_2</SimpleData>
+		<SimpleData name="CMAX">11005.00000000000</SimpleData>
+		<SimpleData name="CVALUE">7703.50000000000</SimpleData>
+		<SimpleData name="MEAS_PRS2">0.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>129.342073686772,36.0940950788314</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#prrg">
+		<SimpleData name="OBJECTID">26881</SimpleData>
+		<SimpleData name="SEQ">853.00000000000</SimpleData>
+		<SimpleData name="ID">RG-2018-0001</SimpleData>
+		<SimpleData name="ENABLED">1</SimpleData>
+		<SimpleData name="PBCO_NO">F20180723_982</SimpleData>
+		<SimpleData name="CTRLNODE">CTRL</SimpleData>
+		<SimpleData name="CMAX">3000.00000000000</SimpleData>
+		<SimpleData name="CVALUE">2100.00000000000</SimpleData>
+		<SimpleData name="MEAS_PRS2">0.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>129.332129979865,36.0257427539843</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
